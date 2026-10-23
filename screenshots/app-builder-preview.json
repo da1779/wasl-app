@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "سكة",
+      "hasCanvas": true,
+      "bodyTextLen": 259,
+      "bodyTextHash": "96243a7953edc45e11c2af065a14ae8d8a1e4f2ad8819807cfbda02d03ce145a",
+      "bodyTextPrefix": "SIKKAH سكة اركض. اقفز بالسحب للأعلى. تزحلق بالسحب للأسفل. العقبا",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "سكة",
+      "hasCanvas": true,
+      "bodyTextLen": 259,
+      "bodyTextHash": "96243a7953edc45e11c2af065a14ae8d8a1e4f2ad8819807cfbda02d03ce145a",
+      "bodyTextPrefix": "SIKKAH سكة اركض. اقفز بالسحب للأعلى. تزحلق بالسحب للأسفل. العقبا",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
